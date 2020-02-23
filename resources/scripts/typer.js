@@ -1,5 +1,5 @@
 var typer = {
-  words: ["Coming soon."],
+  words: ["First release coming soon."],
   wordIndex: 0,
   speed: 150,
   nextWordWait: 1000,
