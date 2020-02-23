@@ -234,3 +234,13 @@ footer#connect {
   -webkit-transform: translateX(-25px) translateY(-75px);
   transform: translateX(-25px) translateY(-75px);
 }
+
+img {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 35px;
+  font-style: oblique;
+  width: 125px;
+  height: 24px
+}
