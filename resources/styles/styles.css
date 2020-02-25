@@ -81,6 +81,8 @@ footer#connect {
   bottom: 0;
   width: 100%;
   z-index: 1;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
 }
 
 #footer-links {
@@ -233,14 +235,4 @@ footer#connect {
 .arrow.-hidden>.dot:nth-of-type(10) {
   -webkit-transform: translateX(-25px) translateY(-75px);
   transform: translateX(-25px) translateY(-75px);
-}
-
-img {
-  position: relative;
-  text-align: center;
-  color: white;
-  font-size: 35px;
-  font-style: oblique;
-  width: 125px;
-  height: auto
 }
